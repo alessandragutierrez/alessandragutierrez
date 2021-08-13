@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Image (2)-1](https://user-images.githubusercontent.com/82188718/129312552-cc1390de-1e16-45da-bc61-c0f279ead0bf.jpg)
+
+
 <!--
 **alessandragutierrez/alessandragutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
