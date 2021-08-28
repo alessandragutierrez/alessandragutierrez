@@ -3,7 +3,6 @@
 ![Image (1)-1 2](https://user-images.githubusercontent.com/82188718/129343775-8bbd92dd-f1be-491f-8364-cb9ffaf324fe.jpg)
 
 
-
 <!--
 **alessandragutierrez/alessandragutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
