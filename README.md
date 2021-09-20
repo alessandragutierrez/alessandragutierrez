@@ -2,7 +2,11 @@
 
 ![Image (1)-1 2](https://user-images.githubusercontent.com/82188718/129343775-8bbd92dd-f1be-491f-8364-cb9ffaf324fe.jpg)
 
+### About Me
 
+It's truly an amazing feeling when I participate in a craft that allows space for both the left and right side of my brain to work together 🧠 -- where creativity, imagination, structure, and order can all intertwine together, creating a harmonious equilibrium ☯️. So, it was no surprise why I quickly fell in love with coding 💻.  Moreover, I also enjoy photography 📷, making music 🎶, and reading 📚.
+
+Every day is a good day to learn something new. 💭💡😎
 <!--
 **alessandragutierrez/alessandragutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
