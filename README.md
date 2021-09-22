@@ -4,7 +4,7 @@
 
 ### About Me
 
-It's truly an amazing feeling when I participate in a craft that allows space for both the left and right halves of my brain to work together 🧠 ... where creativity, imagination, structure, and order can all intertwine, creating a harmonious equilibrium ☯️. <br> So, it was no surprise why I quickly fell in love with coding 💻. Moreover, I also enjoy photography 📷, making music 🎶, and reading 📚. <br> I like to think that every day is a good day to learn something new. 💭💡😎
+It's truly an amazing feeling when I participate in a craft that allows space for both the left and right halves of my brain to work together 🧠 ... where creativity, imagination, structure, and order can all intertwine, creating a harmonious equilibrium ☯️. So, it was no surprise why I quickly fell in love with coding 💻. Moreover, I also enjoy photography 📷, making music 🎶, and reading 📚. <br> I like to think that every day is a good day to learn something new. 💭💡😎
 
 ### Technologies
 <div align="center">
