@@ -8,7 +8,7 @@ It's truly an amazing feeling when I participate in a craft that allows space fo
 
 I like to think that every day is a good day to learn something new. 💭💡😎
 
-#### Technologies
+### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,6 +28,10 @@ I like to think that every day is a good day to learn something new. 💭💡�
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <!-- ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black) -->
+
+### Let's Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alessandra-guti/)
+
 
 <!--
 **alessandragutierrez/alessandragutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
