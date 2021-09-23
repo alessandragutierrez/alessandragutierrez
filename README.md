@@ -35,8 +35,8 @@ It's truly an amazing feeling when I participate in a craft that allows space fo
   
 <div align="center">  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandragutierrez&langs_count=10&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=9E62FF)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandragutierrez&include_all_commits=true&count_private=true&show_icons=true&hide=stars,contribs&bg_color=000000&text_color=FFFFFF&title_color=9E62FF&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandragutierrez&langs_count=10&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=9E62FF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandragutierrez&include_all_commits=true&count_private=true&show_icons=true&hide=stars,contribs&bg_color=000000&text_color=FFFFFF&title_color=9E62FF&line_height=30)
   
 </div>
 
